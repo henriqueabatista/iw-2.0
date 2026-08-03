@@ -1,0 +1,41 @@
+{
+  "personagem": {
+    "nome": "Eevee",
+    "franquia": "Pokémon",
+    "origem": "Região de Kanto",
+    "primeira_aparicao": "Pokémon Red e Blue (1996)",
+    "perfil_fisico": {
+      "altura": "Aprox. 0.3m",
+      "porte_fisico": "Pequeno / Quadrúpede",
+      "marca_registrada": "Juba felpuda no pescoço e cauda densa",
+      "item_alternativo": "Pedras Evolutivas (Water Stone, Thunder Stone, Fire Stone)"
+    },
+    "atributos_sobrehumanos": {
+      "força": "Adaptável (potencializada pela habilidade Adaptability)",
+      "durabilidade": "Resistência genética a variações ambientais",
+      "regeneracao": "Capacidade de reestruturação genética ao evoluir",
+      "imortalidade": "Mutabilidade constante (capacidade de transição para 8 formas distintas)"
+    },
+    "combate": {
+      "arma_favorita": "Ataques do tipo Normal (como Swift, Bite e Last Resort)",
+      "estilo": "Agilidade, adaptabilidade e apoio tático",
+      "fraqueza_notavel": "Movimentos do tipo Lutador (Fighting)"
+    },
+    "psicologia": {
+      "motivacao": "Lealdade ao Treinador e adaptação ao ambiente",
+      "estado_mental": "Dócil, afetuoso e brincalhão",
+      "gatilho_sonoro": "Vee-vee!"
+    },
+    "variantes": [
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon",
+      "Sylveon",
+      "Gigantamax Eevee"
+    ]
+  }
+}
